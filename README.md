@@ -2,7 +2,7 @@
 
 ## HackerRank Profile
 
-[My HackerRank Profile]: https://www.hackerrank.com/profile/rishit11105
+[My HackerRank Profile](https://www.hackerrank.com/profile/rishit11105)
 
 ## Problems Solved
 
